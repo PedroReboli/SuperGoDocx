@@ -43,9 +43,9 @@ func main() {
 	}
 }
 ```
-## documentation
+## Documentation
  [Index](https://github.com/PedroReboli/SuperGoDocx/blob/main/docs/Index.md)
-## credits
+## Credits
 using a slightly modified version of [go-xmldom](https://github.com/subchen/go-xmldom)
 
 thanks to [@DesenhaMenina](https://twitter.com/DesenhaMenina) to draw this amazing gopher
