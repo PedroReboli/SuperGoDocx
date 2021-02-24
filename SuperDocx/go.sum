@@ -1,0 +1,7 @@
+github.com/PedroReboli/go-xmldom v3.1.0+incompatible h1:fPXr0ylbXdIKWY20LxzqCxzwG7bI3HgJaMC5x/VqqXk=
+github.com/PedroReboli/go-xmldom v3.1.0+incompatible/go.mod h1:i8ZMX8gDsh4tdBSXJ5JLcmT/ac3aFVYCA+lWJuHHb+k=
+github.com/antchfx/xpath v0.0.0-20170515025933-1f3266e77307/go.mod h1:Yee4kTMuNiPYJ7nSNorELQMr1J33uOpXDMByNYhvtNk=
+github.com/antchfx/xpath v1.1.11 h1:WOFtK8TVAjLm3lbgqeP0arlHpvCEeTANeWZ/csPpJkQ=
+github.com/antchfx/xpath v1.1.11/go.mod h1:i54GszH55fYfBmoZXapTHN8T8tkcHfRgLyVwwqzXNcs=
+github.com/subchen/go-xmldom v1.1.2 h1:7evI2YqfYYOnuj+PBwyaOZZYjl3iWq35P6KfBUw9jeU=
+github.com/subchen/go-xmldom v1.1.2/go.mod h1:6Pg/HuX5/T4Jlj0IPJF1sRxKVoI/rrKP6LIMge9d5/8=
