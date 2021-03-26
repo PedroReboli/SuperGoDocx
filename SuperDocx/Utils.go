@@ -2,7 +2,6 @@ package docx
 
 import (
 	"strings"
-	"unicode"
 )
 
 func index(Base string, search string) int {
@@ -29,12 +28,6 @@ func index(Base string, search string) int {
 		for searchIndex, searchChar := range searchSplit {
 			if baseIndex+searchIndex >= len(baseSplit) {
 				return -1
-			}
-			if unicode.IsPrint(([]rune(searchChar))[0]) == false {
-				continue
-			}
-			if unicode.IsPrint(([]rune(baseSplit[baseIndex+searchIndex]))[0]) == false {
-				continue
 			}
 			if baseSplit[baseIndex+searchIndex] != searchChar {
 				find = false
