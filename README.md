@@ -36,7 +36,7 @@ func main() {
 	para1.Runs[2].SetText("run2")
 	//replace text even if it is across runs. new text using same style of the fist old text letter
 	para1.Replace("run0 run1 ru", "new text to replace old with italic style")
-	err = doc.Save("./NewDocument.docx")
+	err = doc.SaveAs("./NewDocument.docx")
 	// or ([]byte ,error) doc.SaveToMemory()
 	if err != nil {
 		panic(err)
